@@ -12,8 +12,8 @@
       "node": ">=0.10"
   },
   "dependencies": {
-    "asn1": "0.2.1",
-    "assert-plus": "0.1.5",
+    "asn1": "^0.2.1",
+    "assert-plus": "^0.1.5",
     "ldapjs": "^0.7.1"
   }
 }
