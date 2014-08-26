@@ -9,11 +9,12 @@
     "lib": "./lib"
   },
   "engines": {
-      "node": ">=0.10"
+    "node": ">=0.10"
   },
   "dependencies": {
     "asn1": "^0.2.1",
     "assert-plus": "^0.1.5",
     "ldapjs": "^0.7.1"
-  }
+  },
+  "license": "MPL-2.0"
 }
