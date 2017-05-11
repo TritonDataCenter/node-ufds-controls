@@ -8,6 +8,8 @@
     Copyright (c) 2014, Joyent, Inc.
 -->
 
+**Note: This repository is obsolete.**
+
 # Node-UFDS-Controls
 
 This repository is part of the Joyent SmartDataCenter project (SDC).  For
